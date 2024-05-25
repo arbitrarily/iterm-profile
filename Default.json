@@ -28,11 +28,11 @@
   "Show Status Bar" : false,
   "Character Encoding" : 4,
   "Selection Color" : {
-    "Red Component" : 0.070588238537311554,
+    "Red Component" : 0.19215686274509805,
     "Color Space" : "sRGB",
-    "Blue Component" : 0.070588238537311554,
+    "Blue Component" : 0.41176470588235292,
     "Alpha Component" : 1,
-    "Green Component" : 0.070588238537311554
+    "Green Component" : 0.29803921568627451
   },
   "Show Mark Indicators" : true,
   "Mouse Reporting" : true,
@@ -392,7 +392,7 @@
     "Alpha Component" : 1,
     "Green Component" : 0.070588238537311554
   },
-  "Screen" : -1,
+  "Screen" : -2,
   "Initial Use Transparency" : false,
   "Non Ascii Font" : "MaterialDesignIconsDesktop 11",
   "Ansi 13 Color" : {
